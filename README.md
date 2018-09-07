@@ -1,6 +1,3 @@
-# Javascript-exercises
-Some Javascript exercises :rocket:
-
 
 <div align="center">
   <h1>JavaScript Exercises Solutions</h1>
@@ -22,4 +19,3 @@ Some Javascript exercises :rocket:
   </p>
   <br>
 </div>
----
