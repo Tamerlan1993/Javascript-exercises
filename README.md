@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tamerlan1993)](https://github.com/Tamerlan1993/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tamerlan1993)]
 
 <div align="center">
   <h1>JavaScript Exercises Solutions</h1>
